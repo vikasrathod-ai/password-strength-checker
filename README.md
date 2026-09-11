@@ -10,8 +10,3 @@ A simple Python script to check the strength of a password based on length and c
 ```bash
 python password_checker.py
 
-## What I Learned
--Basics of regex (regular expressions) in Python
--How to evaluate password strength using character variety and length
--Importance of strong passwords in cybersecurity
--Writing beginner‑friendly scripts that solve practical problems

@@ -10,3 +10,15 @@ A simple Python script to check the strength of a password based on length and c
 ```bash
 python password_checker.py
 
+## What I Learned
+- Basics of using regular expressions (regex) in Python  
+- How to evaluate password strength using length and character variety  
+- Importance of strong passwords in cybersecurity  
+- Writing beginner-friendly scripts that solve practical problems  
+
+## Why This Repo?
+- Demonstrates my ability to write simple yet useful Python code  
+- Highlights awareness of cybersecurity fundamentals (password security)  
+- Serves as a starting point for building more advanced security tools  
+- Shows recruiters that I’m actively learning and applying concepts
+
